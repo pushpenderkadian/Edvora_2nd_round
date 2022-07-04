@@ -1,0 +1,17 @@
+PS D:\internship work\Edvora\automation\Test>  d:; cd 'd:\internship work\Edvora\automation\Test'; & 'D:\Java\jdk-16.0.2\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:63107' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\pushp\AppData\Local\Temp\cp_4vc2ukb4r728j6fg7arz3ylmh.argfile' 'TC001'
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 50224
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 04, 2022 3:00:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jul 04, 2022 3:00:52 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 103
+========================================================================
+Test case TC001 starting : 
+
+Alert is present with Error " something went wrong " 
+Test case failed User is not able to create account

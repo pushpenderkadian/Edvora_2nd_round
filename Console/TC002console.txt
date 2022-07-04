@@ -1,0 +1,63 @@
+PS D:\internship work\Edvora\automation\Test>  d:; cd 'd:\internship work\Edvora\automation\Test'; & 'D:\Java\jdk-16.0.2\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:63316' '-XX:+ShowCodeDetailsInExceptionMessages' '@C:\Users\pushp\AppData\Local\Temp\cp_4vc2ukb4r728j6fg7arz3ylmh.argfile' 'TC002' 
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 54427
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 04, 2022 3:12:43 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jul 04, 2022 3:12:43 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 103
+========================================================================
+Test case TC002 starting :
+
+
+Attempt 1 login Success
+Logging out
+
+Attempt 2 login Success
+Logging out
+
+Attempt 3 login Success
+Logging out
+
+Attempt 4 login Success
+Logging out
+
+Attempt 5 login Success
+Logging out
+
+Attempt 6 login Success
+Logging out
+
+Attempt 7 login Success
+Logging out
+
+Attempt 8 login Success
+Logging out
+
+Attempt 9 login Success
+Logging out
+
+Attempt 10 login Success
+Logging out
+
+Attempt 11 login Success
+Logging out
+
+Attempt 12 login Success
+Logging out
+
+Attempt 13 login Success
+Logging out
+
+Attempt 14 login Success
+Logging out
+
+Attempt 15 login Success
+Logging out
+
+
+Test case is Successfull User is able to login after logout consecutively
